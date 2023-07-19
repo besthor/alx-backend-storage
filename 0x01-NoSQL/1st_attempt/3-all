@@ -1,0 +1,3 @@
+// Write a script that lists all documents in the collection school
+// - The database name will be passed as option of mongo command
+db.school.find()
